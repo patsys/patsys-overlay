@@ -1,0 +1,12 @@
+<pkgmetadata>
+<maintainer type="person">
+<email>overlay@patweber.de</email>
+<description>
+AWS-CLI
+</description>
+<name>Patrick Weber</name>
+</maintainer>
+<longdescription>
+Universal Command Line Interface for Amazon Web Services
+</longdescription>
+</pkgmetadata>
