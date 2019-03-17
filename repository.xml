@@ -1,0 +1,13 @@
+
+  
+<repositories encoding="unicode" version="1.1">
+  <repo priority="50" quality="experimental">
+    <name>patsys</name>
+    <description>Patrick's overlay</description>
+    <owner>
+      <email>overlay@patweber.de</email>
+      <name>Patrick Weber</name>
+    </owner>
+    <source type="git">https://github.com/patsys/patsys-overlay.git</source>
+  </repo>
+</repositories>
